@@ -38,3 +38,14 @@ The system achieved strong classification performance across multiple categories
 
 ## Notes
 This project was developed as an academic team project under the supervision of Abu Dhabi University faculty members.
+
+
+## Demonstration
+
+The system integrates:
+- Otoscopic image acquisition
+- AI-based classification
+- Mobile application interface
+- Real-time inference using TensorFlow Lite
+
+This project demonstrates a complete end-to-end medical AI pipeline.
